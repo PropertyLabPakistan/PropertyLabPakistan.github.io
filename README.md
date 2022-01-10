@@ -1,1 +1,0 @@
-# PropertyLabPakistan.github.io
