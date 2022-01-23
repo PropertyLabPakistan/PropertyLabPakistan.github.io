@@ -10266,12 +10266,11 @@ a.text-dark:hover, a.text-dark:focus {
 	transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
 	background-color: #555;
-	color: white;
 	font-size: 16px;
-	padding: 12px 24px;
+	padding: 1% 2%;
 	border: none;
 	cursor: pointer;
-	border-radius: 5px;
+	border-radius: 7px;
 	text-align: center;
 }
 
@@ -10283,13 +10282,12 @@ a.text-dark:hover, a.text-dark:focus {
 	transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
 	background-color: #555;
-	color: white;
 	font-size: 16px;
-	padding: 12px 24px;
+	padding: 1% 2%;
 	border: none;
 	cursor: pointer;
-	border-radius: 5px;
-	text-align: center;	
+	border-radius: 7px;
+	text-align: center;
 }
 
 #MainImageRentBtn 
@@ -10300,12 +10298,11 @@ a.text-dark:hover, a.text-dark:focus {
 	transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
 	background-color: #555;
-	color: white;
 	font-size: 16px;
-	padding: 12px 24px;
+	padding: 1% 2%;
 	border: none;
 	cursor: pointer;
-	border-radius: 5px;
+	border-radius: 7px;
 	text-align: center;	
 }
 
@@ -10365,12 +10362,23 @@ a.text-dark:hover, a.text-dark:focus {
 
 .ButtonImage 
 {
-	width: 100%;
-	height: 100%;
+	width: auto;
+	height: auto;
 }
 
 .mainImageButton 
 {
-	max-width: 12%;
-	max-height: 19%;
+	max-width: 17%;
+	max-height: 30%;
+}
+
+#bio 
+{
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+#AboutContainer 
+{
+	background-color: black;
 }
